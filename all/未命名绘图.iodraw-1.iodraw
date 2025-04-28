@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pY0NqxxqECDnlafW_o2h-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5280" y="-1160" width="1030" height="780" as="geometry" />
+        </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5690" y="-915" width="260" height="290" as="geometry" />
         </mxCell>
@@ -27,9 +30,6 @@
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-11" value="资材系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5660" y="-895" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pY0NqxxqECDnlafW_o2h-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5280" y="-1160" width="1030" height="780" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-13" value="大库出库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5240" y="-1050" width="120" height="60" as="geometry" />
