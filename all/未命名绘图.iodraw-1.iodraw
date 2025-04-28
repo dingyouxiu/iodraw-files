@@ -8,13 +8,25 @@
           <mxGeometry x="-3970" y="-860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-2" value="出库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3610" y="-850" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3540" y="-860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-3" value="资材，大库出库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3980" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-4" value="设备，大库出库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3980" y="-990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pY0NqxxqECDnlafW_o2h-5" value="机旁库，入库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3960" y="-850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pY0NqxxqECDnlafW_o2h-6" value="出库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3530" y="-850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pY0NqxxqECDnlafW_o2h-7" value="资材，大库出库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3970" y="-1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pY0NqxxqECDnlafW_o2h-8" value="设备，大库出库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3970" y="-980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
