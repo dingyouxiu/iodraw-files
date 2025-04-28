@@ -31,8 +31,8 @@
         <mxCell id="pY0NqxxqECDnlafW_o2h-13" value="大库出库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5200" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pY0NqxxqECDnlafW_o2h-14" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-4980" y="-740" width="60" height="30" as="geometry" />
+        <mxCell id="pY0NqxxqECDnlafW_o2h-14" value="设备管理系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-4980" y="-740" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
