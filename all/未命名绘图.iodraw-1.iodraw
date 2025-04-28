@@ -11,7 +11,7 @@
           <mxGeometry x="-3610" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-3" value="大库出库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3980" y="-1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3980" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-4" value="大库出库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3980" y="-940" width="120" height="60" as="geometry" />
