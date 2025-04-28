@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pY0NqxxqECDnlafW_o2h-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5680" y="-1080" width="260" height="290" as="geometry" />
+          <mxGeometry x="-5680" y="-1050" width="260" height="290" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-1" value="机旁库，入库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3970" y="-860" width="120" height="60" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="-4820" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-7" value="大库出库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5580" y="-880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5590" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-8" value="设备，大库出库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5190" y="-920" width="120" height="60" as="geometry" />
