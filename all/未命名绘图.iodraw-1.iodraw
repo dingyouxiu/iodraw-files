@@ -41,10 +41,10 @@
           <mxGeometry x="-4870" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-20" value="手动生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-5240" y="-984" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5190" y="-760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-23" value="其他业务生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-5240" y="-918" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5190" y="-694" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
