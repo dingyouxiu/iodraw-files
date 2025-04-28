@@ -22,7 +22,7 @@
         <mxCell id="pY0NqxxqECDnlafW_o2h-4" value="设备，大库出库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3980" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pY0NqxxqECDnlafW_o2h-16" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pY0NqxxqECDnlafW_o2h-7" target="pY0NqxxqECDnlafW_o2h-13">
+        <mxCell id="pY0NqxxqECDnlafW_o2h-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pY0NqxxqECDnlafW_o2h-7" target="pY0NqxxqECDnlafW_o2h-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-7" value="大库出库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -41,10 +41,10 @@
           <mxGeometry x="-4860" y="-880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-20" value="手动生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-5010" y="-770" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5240" y="-930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-23" value="其他业务生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-5010" y="-680" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5240" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
