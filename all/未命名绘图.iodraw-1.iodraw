@@ -26,13 +26,16 @@
           <mxGeometry x="-4820" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-7" value="大库出库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5580" y="-870" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5600" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-8" value="设备，大库出库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5190" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-11" value="资材系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5650" y="-1030" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pY0NqxxqECDnlafW_o2h-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5670" y="-1040" width="260" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
