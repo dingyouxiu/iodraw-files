@@ -97,7 +97,7 @@
           <mxGeometry x="-5140" y="-550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-9" value="调拨" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-4340" y="-360" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4330" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-10" value="退大库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4890" y="-600" width="120" height="60" as="geometry" />
@@ -214,11 +214,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-108" target="UAMAmvn5CKde7nxY1PxJ-113">
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3833.2125" y="132" as="sourcePoint" />
+            <mxPoint x="-3821" y="444" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3890" y="138" />
-              <mxPoint x="-3890" y="450" />
+              <mxPoint x="-3890" y="132" />
+              <mxPoint x="-3890" y="444" />
             </Array>
           </mxGeometry>
         </mxCell>
