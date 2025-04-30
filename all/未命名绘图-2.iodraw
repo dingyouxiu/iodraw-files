@@ -35,13 +35,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-13" value="大库出库单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5240" y="-1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4920" y="-1065" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-14" value="设备管理系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-5220" y="-1130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-17" value="机旁库入库单" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-4860" y="-937" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4540" y="-952" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pY0NqxxqECDnlafW_o2h-20" target="pY0NqxxqECDnlafW_o2h-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-20" value="手动生成" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-5240" y="-937" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4920" y="-952" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pY0NqxxqECDnlafW_o2h-23" target="pY0NqxxqECDnlafW_o2h-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -63,10 +63,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-23" value="其他业务生成" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-5240" y="-830" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4920" y="-845" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-2" value="自动生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-5060" y="-1020" as="geometry" />
+          <mxGeometry x="-5060" y="-1020" as="geometry">
+            <mxPoint x="6" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-3" value="机旁库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-5260" y="-670" width="120" height="60" as="geometry" />
@@ -75,7 +77,7 @@
           <mxGeometry x="-5030" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-5" value="出库管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-5130" y="-614" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5240" y="-584" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-6" value="物料状态变更" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4900" y="-584" width="120" height="60" as="geometry" />
@@ -87,7 +89,7 @@
           <mxGeometry x="-4650" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-9" value="调拨" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-5140" y="-490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5210" y="-490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-10" value="退大库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4870" y="-490" width="120" height="60" as="geometry" />
