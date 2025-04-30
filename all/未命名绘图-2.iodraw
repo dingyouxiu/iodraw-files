@@ -255,23 +255,23 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-90" target="UAMAmvn5CKde7nxY1PxJ-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-90" value="入库管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3850" y="-360" width="120" height="60" as="geometry" />
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-90" value="出库管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-3840" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-92" target="UAMAmvn5CKde7nxY1PxJ-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-92" value="业务系统创建" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3940" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3930" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-93" value="手动创建" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3760" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3750" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-95" target="UAMAmvn5CKde7nxY1PxJ-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-95" value="锁定库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3940" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3930" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-100" target="UAMAmvn5CKde7nxY1PxJ-110">
           <mxGeometry relative="1" as="geometry" />
@@ -283,11 +283,11 @@
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3945" y="97" as="sourcePoint" />
-            <mxPoint x="-3850" y="472" as="targetPoint" />
+            <mxPoint x="-3935" y="117" as="sourcePoint" />
+            <mxPoint x="-3840" y="492" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-4020" y="97" />
-              <mxPoint x="-4020" y="472" />
+              <mxPoint x="-4010" y="117" />
+              <mxPoint x="-4010" y="492" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -297,18 +297,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-100" value="判断库存是否充足" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3945" y="50" width="130" height="90" as="geometry" />
+          <mxGeometry x="-3935" y="70" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UAMAmvn5CKde7nxY1PxJ-103">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3700" y="-160" as="sourcePoint" />
+            <mxPoint x="-3690" y="-140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-103" target="UAMAmvn5CKde7nxY1PxJ-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-103" value="锁定库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3760" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3750" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-108" target="UAMAmvn5CKde7nxY1PxJ-112">
           <mxGeometry relative="1" as="geometry" />
@@ -321,8 +321,8 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-108" target="UAMAmvn5CKde7nxY1PxJ-115">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-3550" y="95" />
-              <mxPoint x="-3550" y="470" />
+              <mxPoint x="-3540" y="115" />
+              <mxPoint x="-3540" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -332,28 +332,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-108" value="判断库存是否充足" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3765" y="50" width="130" height="90" as="geometry" />
+          <mxGeometry x="-3755" y="70" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-110" target="UAMAmvn5CKde7nxY1PxJ-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-110" value="扣减库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3940" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3930" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-112" target="UAMAmvn5CKde7nxY1PxJ-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-112" value="扣减库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3760" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3750" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-113" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3830" y="540" width="80" height="80" as="geometry" />
+          <mxGeometry x="-3820" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-115" target="UAMAmvn5CKde7nxY1PxJ-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-115" value="解锁库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3850" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3840" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
