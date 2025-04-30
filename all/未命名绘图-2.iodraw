@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-108" value="判断库存是否充足" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3845" y="50" width="130" height="90" as="geometry" />
+          <mxGeometry x="-3845" y="50" width="129" height="82" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-112" target="UAMAmvn5CKde7nxY1PxJ-115">
           <mxGeometry relative="1" as="geometry" />
