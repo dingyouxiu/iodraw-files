@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pY0NqxxqECDnlafW_o2h-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5375" y="-1230" width="1700" height="2120" as="geometry" />
+          <mxGeometry x="-5370" y="-1230" width="1700" height="2120" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5690" y="-1190" width="260" height="281" as="geometry" />
@@ -213,9 +213,14 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-66" target="UAMAmvn5CKde7nxY1PxJ-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-4460" y="115" />
-              <mxPoint x="-4460" y="460" />
+              <mxPoint x="-4410" y="115" />
+              <mxPoint x="-4410" y="460" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-80" value="不充足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAMAmvn5CKde7nxY1PxJ-79">
+          <mxGeometry x="-0.1867" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-66" value="判断库存是否充足" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
