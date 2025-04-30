@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pY0NqxxqECDnlafW_o2h-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5280" y="-1160" width="1030" height="780" as="geometry" />
+          <mxGeometry x="-5390" y="-1160" width="1140" height="1460" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5690" y="-1190" width="260" height="281" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-5" value="出库管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-5180" y="-720" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5180" y="-709" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-6" value="物料状态变更" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4460" y="-560" width="120" height="60" as="geometry" />
