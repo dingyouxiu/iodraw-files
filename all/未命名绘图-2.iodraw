@@ -194,16 +194,6 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-93" value="手动创建" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-3750" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UAMAmvn5CKde7nxY1PxJ-110">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3870" y="160" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-97" value="充足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAMAmvn5CKde7nxY1PxJ-96">
-          <mxGeometry x="-0.3642" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3935" y="117" as="sourcePoint" />
@@ -233,27 +223,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-108" target="UAMAmvn5CKde7nxY1PxJ-115">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-3540" y="115" />
-              <mxPoint x="-3540" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-107" value="不充足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAMAmvn5CKde7nxY1PxJ-106">
-          <mxGeometry x="-0.1867" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-108" value="判断库存是否充足" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3755" y="70" width="130" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-110" target="UAMAmvn5CKde7nxY1PxJ-115">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-110" value="扣减库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3930" y="255" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3845" y="50" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-112" target="UAMAmvn5CKde7nxY1PxJ-115">
           <mxGeometry relative="1" as="geometry" />
