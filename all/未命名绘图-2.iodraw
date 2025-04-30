@@ -22,7 +22,7 @@
         <mxCell id="pY0NqxxqECDnlafW_o2h-4" value="设备，大库出库单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3980" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pY0NqxxqECDnlafW_o2h-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pY0NqxxqECDnlafW_o2h-7" target="pY0NqxxqECDnlafW_o2h-13" edge="1">
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pY0NqxxqECDnlafW_o2h-7" target="pY0NqxxqECDnlafW_o2h-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-7" value="大库出库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
