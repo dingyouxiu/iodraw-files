@@ -94,9 +94,13 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-17" value="手动生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4440" y="-952" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-20">
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4620" y="-970" as="targetPoint" />
+            <mxPoint x="-4620" y="-980" as="targetPoint" />
+            <mxPoint x="-4440" y="-825" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-4619" y="-825" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-20" value="其他业务生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
