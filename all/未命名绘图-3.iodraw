@@ -370,6 +370,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-33" value="出库单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BlbWBznTZTWfkuq-_pTv-31">
+          <mxGeometry x="-0.4252" y="36" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BlbWBznTZTWfkuq-_pTv-29" target="UAMAmvn5CKde7nxY1PxJ-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
