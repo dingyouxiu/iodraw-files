@@ -247,8 +247,8 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-112" value="扣减库存" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-3859.5" y="1285" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-113" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-3841" y="1480" width="80" height="80" as="geometry" />
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-113" value="结束" style="whiteSpace=wrap;html=1;rounded=1;shape=endState;perimeter=ellipsePerimeter;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="-3841" y="1480" width="41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-115" target="UAMAmvn5CKde7nxY1PxJ-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
