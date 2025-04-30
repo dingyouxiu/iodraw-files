@@ -167,7 +167,7 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-57" value="锁定库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4800" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-59" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-59" value="判断库存是否充足" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4780" y="70" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
