@@ -344,7 +344,7 @@
         </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-24" value="出库单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BlbWBznTZTWfkuq-_pTv-22">
           <mxGeometry x="-0.2601" y="-67" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="67" y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-19" value="对于处置的物料创建出入库单" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
