@@ -287,6 +287,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-4620" y="625" as="sourcePoint" />
             <mxPoint x="-3995" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-4620" y="700" />
+              <mxPoint x="-4290" y="700" />
+              <mxPoint x="-4290" y="900" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-10" value="出库单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BlbWBznTZTWfkuq-_pTv-9">
