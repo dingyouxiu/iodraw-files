@@ -297,7 +297,7 @@
         </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-10" value="出库单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BlbWBznTZTWfkuq-_pTv-9">
           <mxGeometry x="-0.0581" y="-6" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-35" y="24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BlbWBznTZTWfkuq-_pTv-5" target="UAMAmvn5CKde7nxY1PxJ-55">
@@ -325,6 +325,11 @@
         </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BlbWBznTZTWfkuq-_pTv-19" target="UAMAmvn5CKde7nxY1PxJ-55">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BlbWBznTZTWfkuq-_pTv-21">
+          <mxGeometry x="-0.5777" y="16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BlbWBznTZTWfkuq-_pTv-19" target="UAMAmvn5CKde7nxY1PxJ-92">
           <mxGeometry relative="1" as="geometry" />
