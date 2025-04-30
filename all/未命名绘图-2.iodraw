@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pY0NqxxqECDnlafW_o2h-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-5280" y="-1160" width="1030" height="780" as="geometry" />
-        </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5690" y="-1190" width="260" height="281" as="geometry" />
         </mxCell>
@@ -100,41 +97,11 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-10" value="退大库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4450" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4550" y="-753.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-16" value="手动创建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAMAmvn5CKde7nxY1PxJ-15">
-          <mxGeometry x="-0.2095" y="2" relative="1" as="geometry">
-            <mxPoint x="-65" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-17" value="手动生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4930" y="-783.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4550" y="-753.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-19" value="自动生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAMAmvn5CKde7nxY1PxJ-18">
-          <mxGeometry x="-0.4073" relative="1" as="geometry">
-            <mxPoint x="-32" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-20" value="其他业务生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4930" y="-676.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UAMAmvn5CKde7nxY1PxJ-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-5070" y="-693.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UAMAmvn5CKde7nxY1PxJ-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-5070" y="-693.5" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
