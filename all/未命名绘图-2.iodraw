@@ -238,7 +238,7 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-73" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4690" y="610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-82" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-82" value="解锁库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4710" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
