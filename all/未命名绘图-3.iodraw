@@ -305,8 +305,14 @@
         <mxCell id="BlbWBznTZTWfkuq-_pTv-5" value="对于变更的物料创建出入库单" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4785" y="585" width="210" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlbWBznTZTWfkuq-_pTv-15" target="BlbWBznTZTWfkuq-_pTv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-15" value="选择处置物料" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4430" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-17" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-4430" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
