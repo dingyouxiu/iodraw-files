@@ -187,7 +187,7 @@
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-77" value="不充足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAMAmvn5CKde7nxY1PxJ-76">
           <mxGeometry x="-0.3534" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-59" value="判断库存是否充足" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -234,11 +234,17 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-67" value="扣减库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4800" y="255" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-70" target="UAMAmvn5CKde7nxY1PxJ-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-70" value="扣减库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4620" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-73" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-4690" y="610" width="80" height="80" as="geometry" />
+          <mxGeometry x="-4690" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-82" target="UAMAmvn5CKde7nxY1PxJ-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-82" value="解锁库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4710" y="460" width="120" height="60" as="geometry" />
