@@ -54,7 +54,7 @@
         <mxCell id="pY0NqxxqECDnlafW_o2h-20" value="手动生成" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-5240" y="-937" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pY0NqxxqECDnlafW_o2h-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pY0NqxxqECDnlafW_o2h-23" target="pY0NqxxqECDnlafW_o2h-17" edge="1">
+        <mxCell id="pY0NqxxqECDnlafW_o2h-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pY0NqxxqECDnlafW_o2h-23" target="pY0NqxxqECDnlafW_o2h-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-41" value="自动生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pY0NqxxqECDnlafW_o2h-40" vertex="1" connectable="0">
