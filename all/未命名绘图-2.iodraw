@@ -59,11 +59,14 @@
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-41" value="自动生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pY0NqxxqECDnlafW_o2h-40" vertex="1" connectable="0">
           <mxGeometry x="-0.4073" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-23" value="其他业务生成" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-5240" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-2" value="自动生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-5060" y="-1020" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
