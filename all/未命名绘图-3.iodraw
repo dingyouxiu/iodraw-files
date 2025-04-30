@@ -100,7 +100,7 @@
           <mxGeometry x="-4430" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-8" value="移库" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-4990" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3950" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-9" value="调拨" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-5020" y="160" width="120" height="60" as="geometry" />
