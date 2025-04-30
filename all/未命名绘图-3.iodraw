@@ -94,7 +94,7 @@
           <mxGeometry x="-4740" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-7" value="备件处置" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-4990" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-4430" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-8" value="移库" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-4990" y="50" width="120" height="60" as="geometry" />
@@ -155,7 +155,7 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-52" target="UAMAmvn5CKde7nxY1PxJ-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-52" value="业务系统创建" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-52" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-4820" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-55" target="UAMAmvn5CKde7nxY1PxJ-124" edge="1">
