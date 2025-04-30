@@ -291,11 +291,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BlbWBznTZTWfkuq-_pTv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BlbWBznTZTWfkuq-_pTv-5" target="UAMAmvn5CKde7nxY1PxJ-55">
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BlbWBznTZTWfkuq-_pTv-5" target="UAMAmvn5CKde7nxY1PxJ-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="-4770" y="625" />
               <mxPoint x="-4770" y="890" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BlbWBznTZTWfkuq-_pTv-12">
+          <mxGeometry x="-0.6166" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-5" value="对于变更的物料创建出入库单" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
