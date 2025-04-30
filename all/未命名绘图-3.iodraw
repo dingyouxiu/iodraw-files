@@ -176,7 +176,7 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-65" value="锁定库存" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-4740" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-82" edge="1">
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-82" target="BlbWBznTZTWfkuq-_pTv-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-4680" y="1330" as="targetPoint" />
           </mxGeometry>
