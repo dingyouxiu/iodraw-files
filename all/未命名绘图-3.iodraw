@@ -362,7 +362,7 @@
         <mxCell id="BlbWBznTZTWfkuq-_pTv-27" value="填写退库原因及退库信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4185" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BlbWBznTZTWfkuq-_pTv-29" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-29" value="生成退大库的备件出入库单" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4230" y="535" width="210" height="75" as="geometry" />
         </mxCell>
       </root>
