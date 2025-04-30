@@ -214,6 +214,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-108" target="UAMAmvn5CKde7nxY1PxJ-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3864" y="138" />
+              <mxPoint x="-3864" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-133" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAMAmvn5CKde7nxY1PxJ-132">
+          <mxGeometry x="-0.1332" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-108" value="判断库存是否充足" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-3844.5" y="98" width="129" height="80" as="geometry" />
         </mxCell>
