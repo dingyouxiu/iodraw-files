@@ -39,7 +39,7 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pY0NqxxqECDnlafW_o2h-23" target="UAMAmvn5CKde7nxY1PxJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAMAmvn5CKde7nxY1PxJ-33">
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-37" value="选择机旁库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAMAmvn5CKde7nxY1PxJ-33">
           <mxGeometry x="-0.6812" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
