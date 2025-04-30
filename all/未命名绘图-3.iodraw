@@ -345,8 +345,14 @@
         <mxCell id="BlbWBznTZTWfkuq-_pTv-19" value="对于处置的物料创建出入库单" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4482.5" y="545" width="225" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BlbWBznTZTWfkuq-_pTv-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-4200" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BlbWBznTZTWfkuq-_pTv-25" target="BlbWBznTZTWfkuq-_pTv-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-25" value="选择大库入库的入库备件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-4200" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-27" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-4200" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
