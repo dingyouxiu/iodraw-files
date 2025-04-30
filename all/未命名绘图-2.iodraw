@@ -80,7 +80,7 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-6" value="物料状态变更" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4890" y="-604" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-7" value="物料状态变更" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-7" value="备件处置" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4660" y="-715" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
