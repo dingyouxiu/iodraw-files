@@ -33,6 +33,9 @@
             <mxPoint x="39" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pY0NqxxqECDnlafW_o2h-20" target="UAMAmvn5CKde7nxY1PxJ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-20" value="手动生成" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-4920" y="-952" width="120" height="60" as="geometry" />
         </mxCell>
