@@ -1,0 +1,271 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="NkuoOKqbOJ1TxFXHR18D">
+    <mxGraphModel dx="6833" dy="2876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pY0NqxxqECDnlafW_o2h-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-5690" y="-1190" width="260" height="281" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pY0NqxxqECDnlafW_o2h-7" target="pY0NqxxqECDnlafW_o2h-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pY0NqxxqECDnlafW_o2h-7" value="大库出库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-5610" y="-1060" width="120" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="pY0NqxxqECDnlafW_o2h-11" value="资材系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-5660" y="-1170" width="80" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pY0NqxxqECDnlafW_o2h-13" target="UAMAmvn5CKde7nxY1PxJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pY0NqxxqECDnlafW_o2h-13" target="UAMAmvn5CKde7nxY1PxJ-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-4860" y="-960" />
+              <mxPoint x="-4620" y="-960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pY0NqxxqECDnlafW_o2h-13" value="大库出库单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-4920" y="-1065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pY0NqxxqECDnlafW_o2h-14" value="设备管理系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-5220" y="-1130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pY0NqxxqECDnlafW_o2h-20" target="UAMAmvn5CKde7nxY1PxJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-36" value="选择机旁库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UAMAmvn5CKde7nxY1PxJ-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.4874" relative="1" as="geometry">
+            <mxPoint x="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pY0NqxxqECDnlafW_o2h-20" target="UAMAmvn5CKde7nxY1PxJ-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-43" value="修改机旁库库存，需上锁" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UAMAmvn5CKde7nxY1PxJ-42" vertex="1" connectable="0">
+          <mxGeometry x="0.522" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pY0NqxxqECDnlafW_o2h-20" value="手动生成" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4920" y="-952" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pY0NqxxqECDnlafW_o2h-23" target="UAMAmvn5CKde7nxY1PxJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-37" value="选择机旁库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UAMAmvn5CKde7nxY1PxJ-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.6812" y="1" relative="1" as="geometry">
+            <mxPoint x="45" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pY0NqxxqECDnlafW_o2h-23" target="UAMAmvn5CKde7nxY1PxJ-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pY0NqxxqECDnlafW_o2h-23" value="其他业务生成" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4920" y="-845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-3" value="机旁库" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4680" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-4" target="pY0NqxxqECDnlafW_o2h-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-4" target="pY0NqxxqECDnlafW_o2h-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-4" value="入库管理" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-5180" y="-892" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-5" target="UAMAmvn5CKde7nxY1PxJ-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-5" target="UAMAmvn5CKde7nxY1PxJ-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-5" value="出库管理" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4180" y="-896" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-6" value="物料状态变更" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4194" y="-29" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-7" value="备件处置" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-5140" y="-680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-8" value="移库" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-5140" y="-550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-9" value="调拨" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-5170" y="-440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-10" value="退大库" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4890" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-17" target="UAMAmvn5CKde7nxY1PxJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-4620" y="-922" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-39" value="选择机旁库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UAMAmvn5CKde7nxY1PxJ-34" vertex="1" connectable="0">
+          <mxGeometry x="-0.3193" y="-1" relative="1" as="geometry">
+            <mxPoint x="-49" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-17" target="UAMAmvn5CKde7nxY1PxJ-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-17" value="手动生成" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4440" y="-952" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-20" target="UAMAmvn5CKde7nxY1PxJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-40" value="选择机旁库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UAMAmvn5CKde7nxY1PxJ-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.4551" y="-1" relative="1" as="geometry">
+            <mxPoint x="-26" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-20" target="UAMAmvn5CKde7nxY1PxJ-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-20" value="其他业务生成" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4440" y="-845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-41" value="机旁库库存" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4680" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-51" target="UAMAmvn5CKde7nxY1PxJ-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-51" target="UAMAmvn5CKde7nxY1PxJ-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-51" target="UAMAmvn5CKde7nxY1PxJ-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-51" value="入库管理" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4710" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-52" target="UAMAmvn5CKde7nxY1PxJ-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-52" value="业务系统创建" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4800" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-55" target="UAMAmvn5CKde7nxY1PxJ-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-55" value="手动创建" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4620" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-65" target="UAMAmvn5CKde7nxY1PxJ-118" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-65" value="锁定库存" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-73" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4700" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-82" target="UAMAmvn5CKde7nxY1PxJ-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-82" value="解锁库存" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4720" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-90" target="UAMAmvn5CKde7nxY1PxJ-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-90" target="UAMAmvn5CKde7nxY1PxJ-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-90" target="UAMAmvn5CKde7nxY1PxJ-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-90" value="出库管理" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-3840" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-92" target="UAMAmvn5CKde7nxY1PxJ-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-92" value="业务系统创建" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-3930" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-93" target="UAMAmvn5CKde7nxY1PxJ-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-93" value="手动创建" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-3750" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-103" target="UAMAmvn5CKde7nxY1PxJ-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-103" value="锁定库存" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-3840.5" y="2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-108" target="UAMAmvn5CKde7nxY1PxJ-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-105" value="充足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UAMAmvn5CKde7nxY1PxJ-104" vertex="1" connectable="0">
+          <mxGeometry x="-0.1537" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3833.2125" y="132" as="sourcePoint" />
+            <mxPoint x="-3821" y="444" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3890" y="132" />
+              <mxPoint x="-3890" y="444" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-133" value="不充足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UAMAmvn5CKde7nxY1PxJ-132" vertex="1" connectable="0">
+          <mxGeometry x="-0.1332" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-108" value="判断库存是否充足" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-3844.5" y="91" width="129" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-112" target="UAMAmvn5CKde7nxY1PxJ-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-112" value="扣减库存" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-3839.5" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-113" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-3821" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-115" target="UAMAmvn5CKde7nxY1PxJ-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-115" value="解锁库存" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-3841" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-118" target="UAMAmvn5CKde7nxY1PxJ-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-118" value="增加库存" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4720" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-124" target="UAMAmvn5CKde7nxY1PxJ-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-124" value="选择机旁库" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-4720" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UAMAmvn5CKde7nxY1PxJ-128" target="UAMAmvn5CKde7nxY1PxJ-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-128" value="选择机旁库" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-3840" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
