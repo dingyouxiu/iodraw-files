@@ -86,7 +86,7 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-8" value="移库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4650" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-9" value="移库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-9" value="调拨" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-5140" y="-490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
