@@ -10,17 +10,8 @@
         <mxCell id="pY0NqxxqECDnlafW_o2h-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5690" y="-1190" width="260" height="281" as="geometry" />
         </mxCell>
-        <mxCell id="pY0NqxxqECDnlafW_o2h-1" value="机旁库，入库单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3970" y="-860" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="pY0NqxxqECDnlafW_o2h-2" value="出库单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3540" y="-860" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pY0NqxxqECDnlafW_o2h-3" value="资材，大库出库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3980" y="-1120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pY0NqxxqECDnlafW_o2h-4" value="设备，大库出库单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3980" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pY0NqxxqECDnlafW_o2h-7" target="pY0NqxxqECDnlafW_o2h-13">
           <mxGeometry relative="1" as="geometry" />
@@ -120,6 +111,9 @@
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-27" value="手动创建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-4740" y="-730" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-28" value="自动生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-4740" y="-630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
