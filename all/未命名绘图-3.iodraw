@@ -323,6 +323,9 @@
         <mxCell id="BlbWBznTZTWfkuq-_pTv-17" value="填写处置方式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4430" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BlbWBznTZTWfkuq-_pTv-19" target="UAMAmvn5CKde7nxY1PxJ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-19" value="对于处置的物料创建出入库单" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4482.5" y="545" width="225" height="60" as="geometry" />
         </mxCell>
