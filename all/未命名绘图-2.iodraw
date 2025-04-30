@@ -194,11 +194,12 @@
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-93" value="手动创建" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-3750" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-108">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3935" y="117" as="sourcePoint" />
             <mxPoint x="-3840" y="492" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="-3845" y="117" />
               <mxPoint x="-4010" y="117" />
               <mxPoint x="-4010" y="492" />
             </Array>
@@ -230,7 +231,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-112" value="扣减库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-3750" y="255" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3840" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-113" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-3820" y="560" width="80" height="80" as="geometry" />
