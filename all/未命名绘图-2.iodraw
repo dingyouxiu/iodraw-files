@@ -69,7 +69,7 @@
           <mxGeometry x="-5060" y="-1020" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-3" value="机旁库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-5240" y="-725" width="120" height="60" as="geometry" />
+          <mxGeometry x="-5260" y="-670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-4" value="入库管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-5030" y="-730" width="120" height="60" as="geometry" />
