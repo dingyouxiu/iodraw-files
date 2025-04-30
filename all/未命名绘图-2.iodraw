@@ -214,8 +214,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-4410" y="115" />
-              <mxPoint x="-4410" y="650" />
-              <mxPoint x="-4650" y="650" />
+              <mxPoint x="-4410" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -232,9 +231,6 @@
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-70" value="扣减库存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4620" y="255" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UAMAmvn5CKde7nxY1PxJ-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-73" target="UAMAmvn5CKde7nxY1PxJ-82">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-73" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4690" y="610" width="80" height="80" as="geometry" />
