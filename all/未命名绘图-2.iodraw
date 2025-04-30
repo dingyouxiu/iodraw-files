@@ -90,11 +90,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-39" value="选择机旁库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAMAmvn5CKde7nxY1PxJ-34">
+          <mxGeometry x="-0.3193" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-17" value="手动生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4440" y="-952" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-20" target="UAMAmvn5CKde7nxY1PxJ-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAMAmvn5CKde7nxY1PxJ-38">
+          <mxGeometry x="-0.4551" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-20" value="其他业务生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4440" y="-845" width="120" height="60" as="geometry" />
