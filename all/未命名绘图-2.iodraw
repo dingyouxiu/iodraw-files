@@ -103,6 +103,9 @@
             <mxPoint x="-49" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UAMAmvn5CKde7nxY1PxJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UAMAmvn5CKde7nxY1PxJ-17" target="UAMAmvn5CKde7nxY1PxJ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UAMAmvn5CKde7nxY1PxJ-17" value="手动生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4440" y="-952" width="120" height="60" as="geometry" />
         </mxCell>
