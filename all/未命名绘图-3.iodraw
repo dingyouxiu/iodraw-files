@@ -335,7 +335,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="BlbWBznTZTWfkuq-_pTv-19" target="UAMAmvn5CKde7nxY1PxJ-92">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-4220" y="575" />
+              <mxPoint x="-4220" y="870" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-24" value="出库单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BlbWBznTZTWfkuq-_pTv-22">
           <mxGeometry x="-0.2601" y="-67" relative="1" as="geometry">
