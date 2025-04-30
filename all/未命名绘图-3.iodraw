@@ -378,6 +378,11 @@
         <mxCell id="BlbWBznTZTWfkuq-_pTv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BlbWBznTZTWfkuq-_pTv-29" target="UAMAmvn5CKde7nxY1PxJ-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BlbWBznTZTWfkuq-_pTv-34" value="入库单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BlbWBznTZTWfkuq-_pTv-32">
+          <mxGeometry x="-0.1442" y="-31" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BlbWBznTZTWfkuq-_pTv-29" value="生成退大库的备件出入库单" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-4230" y="535" width="210" height="75" as="geometry" />
         </mxCell>
